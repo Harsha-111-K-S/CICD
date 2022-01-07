@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>This is my first ever deployment!!!!</h1>
+        <h1>This is my first ever deployment</h1>
     </body>
 </html>
